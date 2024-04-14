@@ -47,6 +47,25 @@ prompts/hints are randomly displayed/cycled through through a bank as well as yo
 - in this case, maybe get the people involved in the pairing to stand up and point to their selected group member (to make it more interactive)
 - then the random reveal flip plays, or is manually done by gamemaster
 
+## BY ANY MEANS NECESSARY (Pictionary)
+Can suggest words in the lobby to the queue, else it randomly selects a word/topic from a bank
+
+Take turns drawing (otherwise you're a guesser)
+Just generates a random pictionary word
+
+Drawer has to try and communicate this word/idea/concept to the guessers BY ANY MEANS NECESSARY (except verbally saying it of course)
+The game itself just displays a word, so irl/off the application game itself the drawer will need to communicate this word to the rest of the group
+
+Guessers should try and be fast - they should try and type the word out 
+guesses which are similar in spelling notify them to check their spelling
+Guessers who guess first earn some good points
+
+
+End of the game is rounds or time or until queue runs out
+Awards to best guesser [guesses the most words fastest]
+Awards to best drawer [people guessed their words fast/the most]
+Awards to best overall player (points system)
+
 
 ## Weird cases
 - people lose connection/close app
