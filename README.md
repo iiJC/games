@@ -8,6 +8,13 @@ has various options (see below)
 then you create a lobby and can see people with a name (kahoot style)
 
 ### word wolf 
+CASUAL VERSION:
+ideal for less than a certain amount of people
+words are chosen from a bank of questions
+
+prompts/hints are randomly displayed/cycled through through a bank as well as you play
+
+GROUP VERSION:
 - each person has a turn to suggest two words for the rest of the lobby [wordmaster]
 - if you want to suggest more for the queue you can
 - if you don't have any ideas you can autogenerate from a bank
@@ -18,6 +25,9 @@ then you create a lobby and can see people with a name (kahoot style)
 - if no concensus reached, keep going
 - game ends when overall game time runs out (so imposter survives), or when imposter is voted out?
 - maybe game ends when the majority think they voted out the imposter (so after each eject, if majority thinks mole is gone the game ends)
+
+prompts/hints are randomly displayed/cycled through through a bank as well as you play
+
 
 ### Paranoia
 - each person suggests a question (or selects from the bank)
