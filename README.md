@@ -7,6 +7,8 @@ Create a Game or Join a game (with a code? or just one lobby?)
 has various options (see below)
 then you create a lobby and can see people with a name (kahoot style)
 
+Can run a one-device game where you take turns answering on the same device (good for showcasing this game program)
+
 ### word wolf 
 CASUAL VERSION:
 ideal for less than a certain amount of people
