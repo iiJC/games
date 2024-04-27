@@ -28,7 +28,10 @@ GROUP VERSION:
 - game ends when overall game time runs out (so imposter survives), or when imposter is voted out?
 - maybe game ends when the majority think they voted out the imposter (so after each eject, if majority thinks mole is gone the game ends)
 
+- guess what the other word is?
+
 prompts/hints are randomly displayed/cycled through through a bank as well as you play
+
 
 
 ### Paranoia
