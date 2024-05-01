@@ -1,25 +1,25 @@
 body {
-  background: #03045e;
-  color: #023e8a;
+  background: #222; /* Dark background color */
+  color: #ddd; /* Light text color */
   font-family: serif;
   text-align: center;
 }
 
 h1 {
-  color: ghostwhite;
   font-size: 2rem;
-  font-family: sans-serif;
+  color: #eee; /* Light heading color */
 }
 
 #container {
   margin: 5% auto;
   border-radius: 5px;
   text-align: center;
+  background: #333; /* Dark container background color */
 }
 
 .box {
   display: inline-block;
-  border: 1px solid #caf0f8;
+  border: 1px solid #444; /* Dark border color */
   width: 100px;
   height: 100px;
   text-align: center;
@@ -37,6 +37,7 @@ span {
   padding: 0;
   margin: 5px;
   margin-left: -35px;
+  color: #ddd; /* Light text color */
 }
 
 .top {
@@ -59,12 +60,12 @@ span {
   height: 75px;
   width: 125px;
   display: inline-block;
-  background: #03045e;
+  background: #333; /* Dark alert background color */
   position: relative;
   z-index: 10;
   margin-top: -50%;
   border-radius: 20px;
-  box-shadow: 0 0 75px 2px #023e8a;
+  box-shadow: 0 0 75px 2px #444; /* Dark box shadow */
   animation: larger 0.5s;
   animation-fill-mode: forwards;
   box-sizing: content-box;
@@ -74,19 +75,19 @@ span {
 }
 
 button {
-  background: #023e8a;
+  background: #444; /* Dark button background color */
   border-radius: 2px;
-  color: #03045e;
+  color: #ddd; /* Light text color */
   border: none;
   outline: none;
 }
 
 button:focus {
-  background: #90e0ef;
+  background: #555; /* Darker background color on focus */
 }
 
 .activeBox {
-  background: #90e0ef;
+  background: #555; /* Darker background color for active box */
 }
 
 @keyframes larger {
