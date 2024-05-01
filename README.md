@@ -74,3 +74,19 @@ Awards to best overall player (points system)
 - people lose connection/close app
 - new people join mid way
 - people double up on the same device
+
+  # XO Simple
+  x and os
+
+basically screen glows to red/green depending on player turn
+
+X is picking...
+
+and then can have extended battle mode
+
+where there is another 3x3 grid and you fight for tiles with individual xo games
+
+leaderboard to keep track of wins/losses
+could add timer to up stakes
+
+minimalist mode (basic implementation)
